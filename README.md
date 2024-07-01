@@ -2,8 +2,8 @@
 **Temperature Converter**
 
 This project is a simple web-based tool for converting temperatures between Celsius and Fahrenheit. It is implemented using HTML, CSS, and JavaScript.
-**
-Features**
+
+**Features**
 
 Real-time Conversion: Convert temperatures between Celsius and Fahrenheit in real-time as you input values.
 Responsive Design: The design adjusts to various screen sizes for a better user experience.
